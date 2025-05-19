@@ -8,7 +8,6 @@ Bienvenue sur l'organisation **Virtus Heaven**.
 
 - **[@RLLanonymous](https://github.com/RLLanonymous)** - Développeur principal (C#, Python, Web) / Fondateur
 - **[@Heykan](https://github.com/Heykan)** - Développeur Senior (C#, Web)
-- **[@Jus2Grenouille](https://github.com/Jus2Grenouille)** - Développeur (Python)
 
 ---
 

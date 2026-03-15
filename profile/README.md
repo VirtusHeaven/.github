@@ -7,8 +7,9 @@ Welcome to **Virtus Heaven Studios**. For now, we are mainly developing *The Bac
 ## 👥 Team
 
 - **[@RLLanonymous](https://github.com/RLLanonymous) - Lead Developer**
-- **[@Heykan](https://github.com/Heykan) - Developer**
-- **[@Bankokwak](https://github.com/Bankokwak) - Developer** 
+- **@nee-san - Developer**
+- **[@Bankokwak](https://github.com/Bankokwak) - Developer**
+- **[@babouche92i](https://steamcommunity.com/id/babouche92i/) - SFX Designer**
 - **[@Kiffeurdu68](https://steamcommunity.com/profiles/76561199539651323) - Human Resources**
 - **[@Huntertytanesque](https://steamcommunity.com/profiles/76561199761515599) - Community Manager**
 - **[@Nitrox](https://steamcommunity.com/profiles/76561199522929323) - Community Manager**
